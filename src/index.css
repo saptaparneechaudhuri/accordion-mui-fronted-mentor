@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap");
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body,
+#root {
+  width: 100vw;
+  height: 100vh;
+}
+
+body {
+  font-family: "Work Sans", sans-serif;
+}
+
+.header-image {
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: cover;
+}
+
+.accordion1::before {
+  display: none;
+}
+
+/* .MuiPaper-root.MuiAccordion-root::before {
+  background-color: #f9f0ff;
+} */
