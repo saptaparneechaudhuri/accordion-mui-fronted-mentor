@@ -1,6 +1,6 @@
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://main--accordion-frontend-mentor.netlify.app/](https://main--accordion-frontend-mentor.netlify.app/)
 
 ### Built with
 
